@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="72">
+	<author>johnwayne1930</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>No-Plow Stump Cutter (PE)</en>
+		<de>Baumstumpffräse Ohne Pflug (PE)</de>
+	</title>
+	
+	<description>
+<en><![CDATA[
+This Pack contains adjusted stump cutter TMC Cancela THX-180 without cultivator or plow function.
+FS22 Platinum Expansion is required.
+
+TMC Cancela THX-180
+Price: 23,000€
+Required power: 180 hp
+Working width: 1.8 m
+]]></en>
+<de><![CDATA[
+Dieses Pack enthält die angepasste Baumstumpffräsen TMC Cancela THX-180 ohne Grubber- oder Pflugfunktion.
+FS22 Platinum Expansion wird benötigt.
+
+TMC Cancela THX-180
+Preis: 23.000€
+Benötigte Leistung: 180 PS
+Arbeitsbreite: 1,8 m
+]]></de>
+	</description>
+	
+	<dependencies>
+		<dependency>pdlc_forestryPack</dependency>
+	</dependencies>	
+	
+	<iconFilename>icon_npsc_pe.dds</iconFilename>
+	<multiplayer supported="true"/>
+	
+	 <storeItems>
+		<storeItem xmlFilename="thx180.xml"/>
+	</storeItems>
+</modDesc>
