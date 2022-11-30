@@ -1,4 +1,4 @@
-# FS22_NoPlowStumpCutter_PE v1.0.0.0
+# FS22_NoPlowStumpCutterPE v1.0.0.0
 Mod for Farming Simulator 22 
 
 #### Description
@@ -6,8 +6,8 @@ This Pack contains adjusted stump cutter TMC Cancela THX-180 without cultivator 
 FS22 Platinum Expansion is required.
 
 #### Installation manually:
-* download [Latest release](https://github.com/johnwayne1930/FS22_NoPlowStumpCutter_PE/releases/latest)
-* put the ZIP file "FS22_NoPlowStumpCutter_PE.zip" in the  
+* download [Latest release](https://github.com/johnwayne1930/FS22_NoPlowStumpCutterPE/releases/latest)
+* put the ZIP file "FS22_NoPlowStumpCutterPE.zip" in the  
 _%\Documents\My Games\FarmingSimulator2022\mods_ directory
 * activate the mod ingame
 
